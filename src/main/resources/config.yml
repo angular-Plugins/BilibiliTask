@@ -18,3 +18,4 @@ manga: true
 upLive:
 #对于进行投币的视频选择是否点赞 , 默认不点赞 [0,1]
 selectLike: 0
+
